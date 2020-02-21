@@ -1,0 +1,46 @@
+'frase das sessões'
+<tituloSessoes>Próximas Sessões</tituloSessoes>
+
+'frase das salas'
+<tituloSalas>Em Exibição</tituloSalas>
+
+'Primeira frase de baixo'
+<frase01>Sénior / Estudante 5.85€ - Óculos 3D 0.75€</frase01>
+
+'Segunda frase de baixo'
+<frase02></frase02>
+
+'Terceira frase de baixo'
+<frase03>Por favor confira o seu troco e os seus bilhetes</frase03>
+
+'Quarta frase de baixo'
+<frase04></frase04>
+
+'Numero de frases'
+<frasesTotal>4</frasesTotal>
+
+'Limite de Caracteres do Titulo'
+<limiteTitulo>50</limiteTitulo>
+
+'Limite de sessões a serem mostradas'
+<limiteSessoes>16</limiteSessoes>
+
+'1000 = 1 segundo / 10000 = 10 segundos / 20000 = 20 segundos / etc'
+'Tempo que cada ecrã está disivel até mudar'
+<transicaoEcra>20000</transicaoEcra>
+
+'Transição entre Mensagens'
+<transicaoMensagem>22000</transicaoMensagem>
+
+''
+<transicaoElementos>200</transicaoElementos>
+
+''
+<transicaoInicio>4</transicaoInicio>
+
+'Minutos de tolerancia para mostrar filmes'
+<toleranciaFilme>15</toleranciaFilme>
+
+'1000 = 1 segundo / 10000 = 10 segundos / 20000 = 20 segundos / etc'
+'Tempo entre leituras'
+<tempoRefresh>160000</tempoRefresh>
